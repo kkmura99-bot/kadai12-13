@@ -360,7 +360,7 @@ int main(void)
         printf("2. 記録の一覧\n");
         printf("3. データ保存\n");
         printf("4. RM推移（グラフ表示）\n");
-        printf("5.記録の削除\n");
+        printf("5. 記録の削除\n");
         printf("6. 終了\n");
         printf("番号を選択 >> ");
 
