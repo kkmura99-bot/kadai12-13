@@ -291,7 +291,7 @@ void graph(void)
     {
         if (recs[i].exercise == ex)
         {
-            int stars = (recs[i].rm / 2);
+            int stars = (recs[i].rm / 5.0);
 
             printf("%s | %5.1f | ", recs[i].date, recs[i].rm);
             for (int j = 0; j < stars; j++)
